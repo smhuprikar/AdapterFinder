@@ -1,0 +1,7 @@
+Given a FASTQ file f, please write a program to read sequences from f and find out the frequency
+of all substrings with length k across all sequences in f.
+The input parameters are
+• Raw sequence data in FASTQ format f
+• Length of the adaptor k
+The output will be
+• A sorted list with substrings according to their frequency in your sequence data
